@@ -14,6 +14,6 @@ Mohammad Nurdin bin Norazan
 - mohammadnrdn@gmail.com
 
 Muhamad Alif bin Jamaluddin
-- github.com/alifjamaluddin
+- https://github.com/alifjamaluddin
 - https://twitter.com/AlifalBanjari
 - alifjamaluddin92@gmail.com
