@@ -22,6 +22,9 @@ A curated list of awesome freelancers from Malaysia!!
 ##N
 * [Nasrul Hazim bin Mohamad](http://nasrulhazim.com) - #cakephp #slimframework #OpenSourceGIS #trainer #php #consultant #personalCoaching
 
+##R
+* [Ravin Sharma](https://github.com/ravinsharma7) - #php #iDrinkVanillaJS #python #laravel #jquery #angularjs #react #wordpress #ilikemath #ML
+
 ##FAQ/CONTACT
 Mohammad Nurdin bin Norazan
 
