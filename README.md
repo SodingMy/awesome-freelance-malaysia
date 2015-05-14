@@ -8,7 +8,7 @@ A curated list of awesome freelancers from Malaysia!!
 * [JefferyLeo](https://github.com/jefferyleo) - #swift #CSharp #Java
 
 ##H
-* [Hisyam Harun (https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #sybase mobile platform #phonegap
+* [Hisyam Harun] (https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #SybaseMobilePlatform #phonegap
 
 ##M
 * [Mohammad Nurdin bin Norazan](http://www.revivalx.com/my/) - #swift #java #phonegap #angularJS
