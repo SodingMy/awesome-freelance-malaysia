@@ -11,12 +11,12 @@ A curated list of awesome freelancers from Malaysia!!
 * [JefferyLeo](https://github.com/jefferyleo) - #swift #CSharp #Java
 
 ##H
-* [Muhammad Hijazi/iReka Soft](http://irekasoft.com/) - #objective-c #sketch #rails #php #bootstrap
 * [Hisyam Harun] (https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #SybaseMobilePlatform #phonegap
 
 ##M
 * [Mohammad Nurdin bin Norazan](http://www.revivalx.com/my/) - #swift #android #phonegap #worklight #ionic #angularJS
 * [Muhamad Alif bin Jamaluddin](http://www.kodegeek.net/) - #rubyonrails #aws #php #java 
+* [Muhammad Hijazi/iReka Soft](http://irekasoft.com/) - #objective-c #sketch #rails #php #bootstrap
 * [Muhammad Nizam Bin Mohd Yusop](http://picostudio.my/) - #cakephp #laravel #php #jquery #html+css #jasper-report #illustrator #photoshop
 
 ##N
