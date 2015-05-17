@@ -20,6 +20,7 @@ A curated list of awesome freelancers from Malaysia!!
 * [Muhammad Nizam Bin Mohd Yusop](http://picostudio.my/) - #cakephp #laravel #php #jquery #html+css #jasper-report #illustrator #photoshop
 
 ##N
+* [Nadiatul Alawiyah Binti Sarip](http://www.muslimshopcenter.com/) - #php #mysql #jquery #java #android #ajax #visual basic 
 * [Nasrul Hazim bin Mohamad](http://nasrulhazim.com) - #cakephp #slimframework #OpenSourceGIS #trainer #php #consultant #personalCoaching
 
 ##R
