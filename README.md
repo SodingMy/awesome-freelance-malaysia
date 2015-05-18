@@ -25,6 +25,9 @@ A curated list of awesome freelancers from Malaysia!!
 
 ##R
 * [Ravin Sharma](https://github.com/ravinsharma7) - #php #iDrinkVanillaJS #python #laravel #jquery #angularjs #react #wordpress #ilikemath #ML
+ 
+##Z
+* [Zulfadli Sukarno](https://github.com/oryxz) - #php #codeigniter #jquery #wordpress
 
 ##FAQ/CONTACT
 Mohammad Nurdin bin Norazan
