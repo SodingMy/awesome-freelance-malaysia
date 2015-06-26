@@ -15,6 +15,7 @@ A curated list of awesome freelancers from Malaysia!!
 
 ##M
 * [Mohammad Nurdin bin Norazan](http://www.revivalx.com/my/) - #swift #android #phonegap #worklight #ionic #angularJS
+* [Mohd Firdaus bin Ramlan](http://github.com/firdausramlan) - #meteorJS #angularJS #mongoDB #mysql #japersoft #pentaho #ionic 
 * [Muhamad Alif bin Jamaluddin](http://www.kodegeek.net/) - #rubyonrails #aws #php #java 
 * [Muhammad Hijazi/iReka Soft](http://irekasoft.com/) - #objective-c #sketch #rails #php #bootstrap
 * [Muhammad Nizam Bin Mohd Yusop](http://picostudio.my/) - #cakephp #laravel #php #jquery #html+css #jasper-report #illustrator #photoshop
