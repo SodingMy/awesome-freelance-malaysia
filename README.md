@@ -6,6 +6,7 @@ A curated list of awesome freelancers from Malaysia!!
 
 ##C
 * [Chris Lui](https://my.linkedin.com/in/chrislyr) - #cSharp #.NET #xamarin #azure #java
+* [Che Wan Mohd Arrazee](https://www.linkedin.com/pub/wan-arrazee/56/347/637) - #cSharp #.NET #java #html+cs #laravel
 
 ##F
 * [Farid Yusof](http://www.sezaman.com) - #php #phpframework #ci #laravel #yii #java #android #cordova #CSharp
