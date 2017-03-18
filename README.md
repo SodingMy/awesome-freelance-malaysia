@@ -12,6 +12,7 @@ A curated list of awesome freelancers from Malaysia!!
 
 ##F
 * [Farid Yusof](http://www.sezaman.com) - #php #phpframework #ci #laravel #yii #java #android #cordova #CSharp
+* [Ferdy Fauzi](https://www.linkedin.com/in/ferdyfauzi/) - #ionic #swift #wordpress #trainer #ionic2 #consultant #personalCoaching
 
 ##J
 * [JefferyLeo](https://github.com/jefferyleo) - #swift #CSharp #Java
@@ -48,3 +49,4 @@ Mohammad Nurdin bin Norazan
 - http://github.com/datomnurdin
 - http://twitter.com/datomnurdin
 - mohammadnrdn@gmail.com
+ 
