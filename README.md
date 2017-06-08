@@ -16,6 +16,7 @@ A curated list of awesome freelancers from Malaysia!!
 
 ##J
 * [JefferyLeo](https://github.com/jefferyleo) - #swift #CSharp #Java
+* [Jerinho (Nadzrien Othman)](http://jerinho.com) - #android #codeigniter #laravel #wordpress
 
 ##H
 * [Hisyam Harun](https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #SybaseMobilePlatform #phonegap
