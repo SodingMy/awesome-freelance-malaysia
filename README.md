@@ -20,6 +20,9 @@ A curated list of awesome freelancers from Malaysia!!
 ##H
 * [Hisyam Harun](https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #SybaseMobilePlatform #phonegap
 
+##I
+* [Ismail Lebai Saleh](https://github.com/maelzx) - #php #mysql #jquery #bootstrap #codeigniter #laravel #python #aws #vps #ubuntu-server 
+
 ##M
 * [Mohammad Nurdin bin Norazan](http://www.revivalx.com/my/) - #swift #android #phonegap #worklight #ionic #angularJS
 * [Mohd Firdaus bin Ramlan](http://github.com/firdausramlan) - #meteorJS #angularJS #mongoDB #mysql #japersoft #pentaho #ionic 
