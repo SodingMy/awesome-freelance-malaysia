@@ -41,6 +41,7 @@ A curated list of awesome freelancers from Malaysia!!
  
 ##S
 * [Shah Z. Shafie](http://icomeicicode.blogspot.com/) - #CSharp #.NET #Xaml #WindowsPhone #Silverlight #WPF #WindowsForms
+* [Syahrul Azlanuddin Remeli](http://cra23.com/) - #FullStackWeb #HybridApp
 
 ##V
 * [Voon Ming Hann](https://www.linkedin.com/in/voonminghann/) - #node.js #mongodb #react #angular
