@@ -37,6 +37,7 @@ A curated list of awesome freelancers from Malaysia!!
 ##R
 * [Ravin Sharma](https://github.com/ravinsharma7) - #php #iDrinkVanillaJS #python #laravel #jquery #angularjs #react #wordpress #ilikemath #ML
 * [Rafieq Roslan](https://www.linkedin.com/in/rafieq-roslan) - #Wordpress #Laravel #yii #GWT #php #Joomla #blog #e-commerce #Web #MATLAB #AI 
+* [Raja Asyraf] (https://github.com/RajaAsyraf) - #PHP #Java #MySQL #R #Shiny
  
 ##S
 * [Shah Z. Shafie](http://icomeicicode.blogspot.com/) - #CSharp #.NET #Xaml #WindowsPhone #Silverlight #WPF #WindowsForms
