@@ -5,7 +5,7 @@ A curated list of awesome freelancers from Malaysia!!
 * [Aditya Prathama](https://id.linkedin.com/pub/aditya-prathama/97/b16/a87) - #java #android #php #jquery #SechaTouch #ExtJs #Magento #wordpress #CodeIgniter
 * [Anonoz](http://www.anonoz.com) - #ruby #rails #events
 * [Abdul Rahman](http://copygrammer.com) - #php #java #android
-
+* [Ahmad Ibrahim](http://aibrahim3546.github.io) - #HTML5/CSS3 #JavaScript/jQuery #ReactJS #C
 ##C
 * [Chris Lui](https://my.linkedin.com/in/chrislyr) - #cSharp #.NET #xamarin #azure #java
 * [Che Wan Mohd Arrazee](https://www.linkedin.com/pub/wan-arrazee/56/347/637) - #cSharp #.NET #java #html+cs #laravel
