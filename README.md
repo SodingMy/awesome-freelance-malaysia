@@ -26,6 +26,8 @@ A curated list of awesome freelancers from Malaysia!!
 ##I
 * [Ismail Lebai Saleh](https://github.com/maelzx) - #php #mysql #jquery #bootstrap #codeigniter #laravel #python #aws #vps #ubuntu-server 
 
+##K
+* [Khairul Filhan](https://kukuandroid.github.io/kukubytes/) - #nodejs #phoneGap# #jqueryMobile #ionic #angular #reactNative #java #android
 ##M
 * [Mohammad Nurdin bin Norazan](http://www.revivalx.com/my/) - #swift #android #phonegap #worklight #ionic #angularJS
 * [Mohd Firdaus bin Ramlan](http://github.com/firdausramlan) - #meteorJS #angularJS #mongoDB #mysql #japersoft #pentaho #ionic 
