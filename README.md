@@ -25,6 +25,7 @@ A curated list of awesome freelancers from Malaysia!!
 
 ##I
 * [Ismail Lebai Saleh](https://github.com/maelzx) - #php #mysql #jquery #bootstrap #codeigniter #laravel #python #aws #vps #ubuntu-server 
+* [Izzat Zainol](https://github.com/izzatz) - #python #php #android  
 
 ##K
 * [Khairul Filhan](https://kukuandroid.github.io/kukubytes/) - #nodejs #jqueryMobile #ionic #angular #reactNative #java #android
