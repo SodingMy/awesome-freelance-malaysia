@@ -20,7 +20,7 @@ A curated list of awesome freelancers from Malaysia!!
 * [Jerinho (Nadzrien Othman)](http://jerinho.com) - #android #codeigniter #laravel #wordpress
 
 ##H
-* [Hitul Mistry](www.linkedin.com/in/hitulmistry) - #python #nodejs #golang #postgresql #mongodb #aws #devops #microservices #datalake #datawarehouse #ai
+* [Hitul Mistry](https://www.linkedin.com/in/hitulmistry) - #python #nodejs #golang #postgresql #mongodb #aws #devops #microservices #datalake #datawarehouse #ai
 * [Hisyam Harun](https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #SybaseMobilePlatform #phonegap
 * [Hamizulfaiz ](https://github.com/aifaiz) - #php #mysql #wordpress #prestashop #opencart #cordova #ionic #laravel #codeigniter #bootstrap #materialize 
 
