@@ -18,7 +18,7 @@ A curated list of awesome freelancers from Malaysia!!
 ##J
 * [JefferyLeo](https://github.com/jefferyleo) - #swift #CSharp #Java
 * [Jerinho (Nadzrien Othman)](http://jerinho.com) - #android #codeigniter #laravel #wordpress
-# [Jerry Chong](https://github.com/jerrychong25) - #nodejs #android #ios #vue #react #aws #gcp #devops #microservices #iot
+* [Jerry Chong](https://github.com/jerrychong25) - #nodejs #android #ios #vue #angular #react #aws #gcp #alibabacloud #devops #api #microservices #iot
 
 ##H
 * [Hitul Mistry](https://www.linkedin.com/in/hitulmistry) - #python #nodejs #golang #postgresql #mongodb #aws #devops #microservices #datalake #datawarehouse #ai
