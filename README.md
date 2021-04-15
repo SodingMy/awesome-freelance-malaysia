@@ -6,6 +6,7 @@ A curated list of awesome freelancers from Malaysia!!
 * [Anonoz](http://www.anonoz.com) - #ruby #rails #events
 * [Abdul Rahman](http://copygrammer.com) - #php #java #android
 * [Abdul Muhaimin](http://github.com/muhaimincs) - #React, #Javascript
+* [Amirul Asyraf](https://github.com/asyraffff) - #ruby #rails #javascript
 
 ##C
 * [Chris Lui](https://my.linkedin.com/in/chrislyr) - #cSharp #.NET #xamarin #azure #java
