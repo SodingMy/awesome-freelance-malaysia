@@ -1,64 +1,65 @@
 # awesome-freelance-malaysia
 A curated list of awesome freelancers from Malaysia!!
 
-##A
+## A
 * [Aditya Prathama](https://id.linkedin.com/pub/aditya-prathama/97/b16/a87) - #java #android #php #jquery #SechaTouch #ExtJs #Magento #wordpress #CodeIgniter
 * [Anonoz](http://www.anonoz.com) - #ruby #rails #events
 * [Abdul Rahman](http://copygrammer.com) - #php #java #android
 * [Abdul Muhaimin](http://github.com/muhaimincs) - #React, #Javascript
+* [Amirul Asyraf](https://github.com/asyraffff) - #ruby #rails #javascript
 
-##C
+## C
 * [Chris Lui](https://my.linkedin.com/in/chrislyr) - #cSharp #.NET #xamarin #azure #java
 * [Che Wan Mohd Arrazee](https://www.linkedin.com/pub/wan-arrazee/56/347/637) - #cSharp #.NET #java #html+cs #laravel
 
-##F
+## F
 * [Farid Yusof](http://www.sezaman.com) - #php #phpframework #ci #laravel #yii #java #android #cordova #CSharp
 * [Ferdy Fauzi](https://www.linkedin.com/in/ferdyfauzi/) - #ionic #swift #wordpress #trainer #ionic2 #consultant #personalCoaching
 
-##J
+## J
 * [JefferyLeo](https://github.com/jefferyleo) - #swift #CSharp #Java
 * [Jerinho (Nadzrien Othman)](http://jerinho.com) - #android #codeigniter #laravel #wordpress
 * [Jerry Chong](https://github.com/jerrychong25) - #nodejs #android #ios #vue #angular #react #aws #gcp #alibabacloud #devops #api #microservices #iot
 
-##H
+## H
 * [Hitul Mistry](https://www.linkedin.com/in/hitulmistry) - #python #nodejs #golang #postgresql #mongodb #aws #devops #microservices #datalake #datawarehouse #ai
 * [Hisyam Harun](https://github.com/mohdhise) - #java #titanium #android #php #mysql #fiori #SybaseMobilePlatform #phonegap
 * [Hamizulfaiz ](https://github.com/aifaiz) - #php #mysql #wordpress #prestashop #opencart #cordova #ionic #laravel #codeigniter #bootstrap #materialize 
 
-##I
+## I
 * [Ismail Lebai Saleh](https://github.com/maelzx) - #php #mysql #jquery #bootstrap #codeigniter #laravel #python #aws #vps #ubuntu-server 
 * [Izzat Zainol](https://github.com/izzatz) - #python #php #android  
 
-##K
+## K
 * [Khairul Filhan](https://kukuandroid.github.io/kukubytes/) - #nodejs #jqueryMobile #ionic #angular #reactNative #java #android
 
-##M
+## M
 * [Mohammad Nurdin bin Norazan](http://www.revivalx.com/my/) - #swift #android #phonegap #worklight #ionic #angularJS
 * [Mohd Firdaus bin Ramlan](http://github.com/firdausramlan) - #meteorJS #angularJS #mongoDB #mysql #japersoft #pentaho #ionic 
 * [Muhamad Alif bin Jamaluddin](http://www.kodegeek.net/) - #rubyonrails #aws #php #java 
 * [Muhammad Hijazi/iReka Soft](http://irekasoft.com/) - #objective-c #sketch #rails #php #bootstrap
 * [Muhammad Nizam Bin Mohd Yusop](http://picostudio.my/) - #cakephp #laravel #php #jquery #html+css #jasper-report #illustrator #photoshop
 
-##N
+## N
 * [Nadiatul Alawiyah Binti Sarip](http://www.muslimshopcenter.com/) - #php #mysql #jquery #java #android #ajax #visual basic 
 * [Nasrul Hazim bin Mohamad](http://nasrulhazim.com) - #cakephp #slimframework #OpenSourceGIS #trainer #php #consultant #personalCoaching
 
-##R
+## R
 * [Ravin Sharma](https://github.com/ravinsharma7) - #php #iDrinkVanillaJS #python #laravel #jquery #angularjs #react #wordpress #ilikemath #ML
 * [Rafieq Roslan](https://www.linkedin.com/in/rafieq-roslan) - #Wordpress #Laravel #yii #GWT #php #Joomla #blog #e-commerce #Web #MATLAB #AI 
 * [Raja Asyraf](https://github.com/RajaAsyraf) - #PHP #Java #MySQL #R #Shiny
  
-##S
+## S
 * [Shah Z. Shafie](http://icomeicicode.blogspot.com/) - #CSharp #.NET #Xaml #WindowsPhone #Silverlight #WPF #WindowsForms
 * [Syahrul Azlanuddin Remeli](http://cra23.com/) - #FullStackWeb #HybridApp
 
-##V
+## V
 * [Voon Ming Hann](https://www.linkedin.com/in/voonminghann/) - #node.js #mongodb #react #angular
 
-##Z
+## Z
 * [Zulfadli Sukarno](https://github.com/oryxz) - #php #codeigniter #jquery #wordpress
 
-##FAQ/CONTACT
+## FAQ/CONTACT
 Mohammad Nurdin bin Norazan
 
 - http://github.com/datomnurdin
